@@ -12,4 +12,3 @@ Provide a Movie-api for React.js
 6. `git push -u origin main`
 7. `git push`   
 
-
